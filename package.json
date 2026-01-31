@@ -1,0 +1,27 @@
+{
+  "name": "assignment1_it23562592",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.39.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gayaniLowe23/IT3040-ITPM-Assignment-1---IT23562592.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gayaniLowe23/IT3040-ITPM-Assignment-1---IT23562592/issues"
+  },
+  "homepage": "https://github.com/gayaniLowe23/IT3040-ITPM-Assignment-1---IT23562592#readme"
+}
